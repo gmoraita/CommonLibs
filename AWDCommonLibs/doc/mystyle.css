@@ -1,0 +1,93 @@
+/* Login Page*/
+.titleHome 			{ font-family:Tahoma,Verdana; font-size:14px; font-weight:bold; text-decoration:none; color:"#ff9933"; }
+.titleHome A 		{ font-family:Tahoma,Verdana; font-size:14px; font-weight:bold; text-decoration:none; color:"#ff9933"; }
+.titleHome A:hover  { font-family:Tahoma,Verdana; font-size:14px; font-weight:bold; text-decoration:none; color:"#9b0000"; }
+
+.bodyHome 			{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#003399"; }
+.bodyHome A 		{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#003399"; }
+.bodyHome A:hover 	{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#ff9933"; }
+
+.loginBox 			{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#003399"; }
+.loginBox A 		{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#003399"; }
+.loginBox A:hover 	{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#ff9933" ;}
+
+.dateHome 			{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#ff9933"; }
+.dateHome A 		{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#ff9933"; }
+.dateHome A:hover 	{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#003399" ;}
+
+/* Inside the Application*/
+.menu				{ font-family:Tahoma,Verdana; font-size:12px; font-weight:bold; text-decoration:none; color:"#003399"; }
+.menu a 			{ font-family:Tahoma,Verdana; font-size:12px; font-weight:bold; text-decoration:none; color:"#003399"; }
+.menu a:hover		{ font-family:Tahoma,Verdana; font-size:12px; font-weight:bold; text-decoration:none; color:"#ff9933"; }
+
+.subMenu			{ font-family:Tahoma,Verdana; font-size:11px; font-weight:none; text-decoration:none; color:"#82A7D1"; }
+.subMenu a 			{ font-family:Tahoma,Verdana; font-size:11px; font-weight:none; text-decoration:none; color:"#82A7D1"; }
+.subMenu a:hover	{ font-family:Tahoma,Verdana; font-size:11px; font-weight:none; text-decoration:none; color:"#ff9933"; }
+
+.bodyText 			{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#888888"; }
+.bodyText A 		{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#82A7D1"; }
+.bodyText A:hover 	{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#ff9933"; }
+
+.printText 			{ font-family:Tahoma,Verdana; font-size:11px; font-weight:normal; text-decoration:none; color:"#000000"; }
+
+.termsText 			{ font-family:Tahoma,Verdana; font-size:11px; font-weight:normal; text-decoration:none; color:"#000000"; background:"#AAA9A9"; text-align : justify;}
+
+
+.formTitle 			{ font-family:Tahoma,Verdana; font-size:11px; font-weight:normal; text-decoration:bold; color:"#888888"; }
+.formTitle A 		{ font-family:Tahoma,Verdana; font-size:11px; font-weight:normal; text-decoration:bold; color:"#82A7D1"; }
+.formTitle A:hover 	{ font-family:Tahoma,Verdana; font-size:11px; font-weight:normal; text-decoration:bold; color:"#ff9933"; }
+
+.formText 			{ font-family:Tahoma,Verdana; font-size:11px; font-weight:normal; text-decoration:none; color:"#888888"; }
+.formText A 		{ font-family:Tahoma,Verdana; font-size:11px; font-weight:normal; text-decoration:none; color:"#82A7D1"; }
+.formText A:hover 	{ font-family:Tahoma,Verdana; font-size:11px; font-weight:normal; text-decoration:none; color:"#ff9933"; }
+
+.intd	 			{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#888888"; }
+.intd a 			{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#82A7D1"; }
+.intd a:hover		{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#ff9933"; }
+
+.intd0	 			{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#888888";}
+
+.intd1	 			{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#888888"; background:"#DBEAF5"; }
+
+.intd2	 			{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#888888"; background:"#F4F4F4"; }
+.intd2 a 			{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#82A7D1"; background:"#F4F4F4"; }
+.intd2 a:hover		{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#ff9933"; background:"#F4F4F4"; }
+
+.intd3				{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#ffffff"; background:"#6f8092"; }
+
+.button 			{ font-family:Tahoma,Verdana; font-size:11px; font-weight: bold; color:"#003399"; background-color:"#dbe2f0"; border:"1px solid #003399"; }
+
+.footerText			{ font-family:Tahoma,Verdana; font-size:10px; font-weight:normal; text-decoration:none; color:"#ffffff"; }
+.footerText a		{ font-family:Tahoma,Verdana; font-size:10px; font-weight:normal; text-decoration:none; color:"#ffffff"; }
+.footerText a:hover	{ font-family:Tahoma,Verdana; font-size:10px; font-weight:normal; text-decoration:none; color:"#003399"; }
+
+.sectionTitle 	    { font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#888888"; border-bottom: thin solid Black; }
+
+.subSectionTitle 	{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none;	color:"#888888"; border-bottom: thin solid silver;}
+
+.tableHeader	    { font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none;	color:"#888888"; background: "#CCDBEC";}
+
+.tableData	        { font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#888888"; border: 1px solid black;  }
+
+.tableNumData	    { font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#888888"; text-align : right; border: 1px solid black;  }
+
+.fieldLabel	        {font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#888888"; text-align : left; vertical-align : top; }
+
+.fieldValue	        { font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#888888"; text-align : left; vertical-align : top; border: 1px solid black; }
+
+.numFieldValue	    { font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#888888"; text-align : right; vertical-align : top; border: 1px solid black; }
+
+.fieldValueForPrint	{ font-family:Tahoma,Verdana; font-size:11px; font-weight:normal; text-decoration:none; color:"#000000"; text-align : left; vertical-align : top; border: 0px; }
+
+.numFieldValueForPrint	{ font-family:Tahoma,Verdana; font-size:12px; font-weight:normal; text-decoration:none; color:"#000000"; text-align : right; vertical-align : top; border: 0px; }
+
+.lockedFieldValue	{	font-family:Tahoma,Verdana;	font-size:12px;	font-weight:normal;	text-decoration:none;	color:"#888888";	text-align : left;	vertical-align : top;	border: 1px solid silver;	background-color : #E0E0E0;}
+
+.lockedNumFieldValue	{	font-family:Tahoma,Verdana;	font-size:12px;	font-weight:normal;	text-decoration:none;	color:"#888888";	text-align : right;	vertical-align : top;	border: 1px solid silver;	background-color : #E0E0E0;}
+
+.lockedFieldValueLight	{	font-family:Tahoma,Verdana;	font-size:12px;	font-weight:normal;	text-decoration:none;	color:"#888888";	text-align : left;	vertical-align : top;	border: 1px solid silver;}
+
+.lockedNumFieldValueLight	{	font-family:Tahoma,Verdana;	font-size:12px;	font-weight:normal;	text-decoration:none;	color:"#888888";	text-align : right;	vertical-align : top;	border: 1px solid silver;}
+
+#table1 tr td  { font-size: 12px; }
+#table2 tr td  { font-size: 13px; }

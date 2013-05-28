@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<taglib>
+	<tlibversion>2.1</tlibversion>
+	<jspversion>1.1</jspversion>
+	<shortname>Standard DropDown lists taglib</shortname>
+	<uri>http://www.ttbank.gr/jsp/tags/core</uri>
+	<info>Dropdown tags</info>
+	<tag>
+		<name>Month</name>
+		<tagclass>net.allwebdesign.common.lib.ui.tags.Month</tagclass>
+		<bodycontent>empty</bodycontent>
+		<info>Month listbox</info>
+		
+		<attribute>
+		<name>id</name>
+		<required>false</required>
+		<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		<attribute>
+		<name>classTag</name>
+		<required>false</required>
+		<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		<attribute>
+		<name>name</name>
+		<required>true</required>
+		<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		<attribute>
+		<name>selected</name>
+		<required>false</required>
+		<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		<attribute>
+		<name>locale</name>
+		<required>false</required>
+		<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		<attribute>
+		<name>fullName</name>
+		<required>false</required>
+		<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		<attribute>
+		<name>autoSubmit</name>
+		<required>false</required>
+		<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	</tag>
+	
+	<tag>
+		<name>WeekDay</name>
+		<tagclass>net.allwebdesign.common.lib.ui.tags.WeekDay</tagclass>
+		<bodycontent>empty</bodycontent>
+		<info>WeekDay listbox</info>
+		
+		<attribute>
+		<name>id</name>
+		<required>false</required>
+		<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		<attribute>
+		<name>classTag</name>
+		<required>false</required>
+		<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		<attribute>
+		<name>name</name>
+		<required>true</required>
+		<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		<attribute>
+		<name>selected</name>
+		<required>false</required>
+		<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		<attribute>
+		<name>locale</name>
+		<required>false</required>
+		<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		<attribute>
+		<name>fullName</name>
+		<required>false</required>
+		<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		<attribute>
+		<name>autoSubmit</name>
+		<required>false</required>
+		<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	</tag>
+	
+	
+	<tag>
+		<name>DataTable</name>
+		<tagclass>net.allwebdesign.common.lib.ui.tags.DataTable</tagclass>
+		<bodycontent>empty</bodycontent>
+		<info>Data Table</info>
+		
+		<attribute>
+			<name>id</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+			
+		<attribute>
+			<name>classTag</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+			
+		<attribute>
+			<name>data</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+			
+		<attribute>
+			<name>drillDownColumn</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+			
+		<attribute>
+			<name>drillDownUrl</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+			
+		<attribute>
+			<name>sortable</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+			
+		<attribute>
+			<name>doPaging</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		<attribute>
+			<name>showPagingAtBottom</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		<attribute>
+			<name>alignContent</name>
+			<required>false</required>
+			<rtexprvalue>center</rtexprvalue>
+		</attribute>
+		
+		<attribute>
+			<name>doZebra</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	    <attribute>
+			<name>doExcel</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	    <attribute>
+			<name>doPrint</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	    <attribute>
+			<name>pageSizes</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		
+	</tag>
+	
+	<tag>
+		<name>DataGrid</name>
+		<tagclass>net.allwebdesign.common.lib.ui.tags.DataGrid</tagclass>
+		<bodycontent>empty</bodycontent>
+		<info>Data Table</info>
+		
+		<attribute>
+			<name>id</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+			
+		<attribute>
+			<name>classTag</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+			
+		<attribute>
+			<name>data</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+			
+		<attribute>
+			<name>drillDownColumn</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+			
+		<attribute>
+			<name>drillDownUrl</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+			
+		<attribute>
+			<name>sortable</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+			
+		<attribute>
+			<name>doPaging</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<!-- EXPERIMENTAL 
+		<attribute>
+			<name>showPagingAtBottom</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		 -->
+		<attribute>
+			<name>alignContent</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		<attribute>
+			<name>doZebra</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	    <attribute>
+			<name>doExcel</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	    <attribute>
+			<name>doPrint</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	    <attribute>
+			<name>pageSizes</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+		
+	</tag>
+	
+</taglib>

@@ -1,0 +1,12 @@
+net.allwebdesign.common.lib.aop
+net.allwebdesign.common.lib.authentication
+net.allwebdesign.common.lib.cache
+net.allwebdesign.common.lib.db
+net.allwebdesign.common.lib.db.hibernate
+net.allwebdesign.common.lib.db.prepared
+net.allwebdesign.common.lib.db.prepared.unittest
+net.allwebdesign.common.lib.db.templates
+net.allwebdesign.common.lib.service
+net.allwebdesign.common.lib.ui
+net.allwebdesign.common.lib.ui.tags
+net.allwebdesign.common.lib.utils
